@@ -1,29 +1,29 @@
-# 🎬 Netflix Movie Data Analysis
+#  Netflix Movie Data Analysis
 
-## 📌 Project Overview
+##  Project Overview
 With the rapid growth of streaming platforms like Netflix, understanding audience preferences and content trends has become crucial for making data-driven decisions. This project analyzes a dataset of 9,000+ movies to uncover key insights about genre popularity, audience engagement, and content production patterns.
 
-## 🎯 Objective
+##  Objective
 The goal of this analysis is to answer critical business questions that can help Netflix:
 - Identify the most dominant and engaging genres
 - Understand audience voting behavior
 - Detect trends in movie production over the years
 - Recognize high-performing and low-performing content
 
-## 🧠 Approach
+##  Approach
 The analysis follows a structured pipeline:
 - Data Cleaning (handling missing values, formatting issues)
 - Exploratory Data Analysis (EDA)
 - Visualization of trends and distributions
 - Insight extraction for business decision-making
 
-## 📊 Key Questions
+##  Key Questions
 1. What is the most frequent genre?
 2. Which genres receive the highest votes?
 3. Which movie has the highest and lowest popularity?
 4. Which year had the highest number of movie releases?
 
-## 💡 Why This Matters
+##  Why This Matters
 Understanding these patterns helps streaming platforms:
 - Invest in high-demand genres
 - Improve content recommendation systems
